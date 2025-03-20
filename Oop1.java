@@ -30,6 +30,17 @@
             obj_name.member_name
             obj_name.member_name()
 
+
+OOPs Concepts:
+    Class
+    Objects
+    Data Abstraction 
+    Encapsulation
+    Inheritance
+    Polymorphism
+    Dynamic Binding
+    Message Passing            
+
 */
 class Car{
     String model;
